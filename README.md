@@ -9,6 +9,9 @@
 >1. Two Sum - Easy [problem](https://github.com/Caleno83/LeetCode-Solution-Python/blob/main/LeetCode/Arrays/Two_Sum.py)
 >26. Remove Duplicates from Sorted Array - Easy [problem](https://github.com/Caleno83/LeetCode-Solution-Python/blob/main/LeetCode/Arrays/26.%20Remove_Duplicates_From_Sorted_Array.py)
 >27. Remove Element - Easy [problem](https://github.com/Caleno83/LeetCode-Solution-Python/blob/main/LeetCode/Arrays/Remove_Elements.py)
+>35. Search Insert Position - Easy [problem](https://github.com/Caleno83/LeetCode-Solution-Python/blob/main/LeetCode/Arrays/Search_Insert_Position.py)
+>53. Maximum Subarray - Easy [problem](https://github.com/Caleno83/LeetCode-Solution-Python/blob/main/LeetCode/Arrays/Maximum%20Subarray.py)
+>66. Plus One - Easy [problem](https://github.com/Caleno83/LeetCode-Solution-Python/blob/main/LeetCode/Arrays/Plus_One.py)
 
 
 
